@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM ubuntu:latest
 
 MAINTAINER Ruslan Nagimov <nagimov@outlook.com>
 
